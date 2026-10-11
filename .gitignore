@@ -1,0 +1,10 @@
+# Local notebook metadata
+.ipynb_checkpoints/
+
+# Dataset archives and extracted data
+aclImdb/
+*.tar.gz
+*.zip
+
+# Generated model checkpoints
+*.pt
